@@ -1,0 +1,13 @@
+{
+  "name": "error-repository",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "jest": "^27.0.6"
+  }
+}
